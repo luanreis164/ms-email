@@ -1,7 +1,7 @@
 ﻿# ms-email
 
 `ms-email` é um microserviço responsável por receber mensagens de e-mail de uma fila RabbitMQ e enviá-las usando SMTP e MailSender.
-![Uploading image.png…]()
+![image](https://github.com/luanreis164/ms-email/assets/76753597/b1d134a8-0b54-490f-8dac-414d9927e229)
 
 ## Tecnologias Utilizadas
 
